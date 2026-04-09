@@ -1,0 +1,3 @@
+# Monthly Revenue Trend
+
+This chart shows the monthly revenue trend for the Amman Digital Market across a full year. The main finding is that revenue increased steadily from January to December, ending the year far above its starting point. I chose this KPI because revenue is one of the clearest indicators of overall business performance and market momentum. A line chart was the best choice because the goal is to highlight change over time rather than compare isolated categories. This finding matters because sustained growth suggests improving customer demand, stronger sales performance, and a healthy business trajectory that decision-makers can build on.
