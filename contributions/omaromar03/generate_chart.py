@@ -23,7 +23,7 @@ def load_data():
 def create_chart(df):
     output_path = Path(__file__).resolve().parent / "chart.png"
 
-    fig, ax = plt.subplots(figsize=(10, 6))
+    fig, ax = plt.subplots(figsize=(800/150,600/150))
 
     ax.plot(
         df["month"],
