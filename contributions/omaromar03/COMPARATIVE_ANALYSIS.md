@@ -1,11 +1,27 @@
-# Comparative Analysis
+## My KPI and Chart
 
-For my contribution, I selected **monthly revenue trend** as my KPI and visualized it with a **line chart**. I chose this KPI because revenue provides the clearest high-level summary of overall business performance. I wanted to see whether the Amman Digital Market was showing steady growth over time, and a line chart was the strongest option because it highlights continuity, direction, and momentum across the year.
+I decided to focus on **revenue distribution across cities and product categories**. I chose this KPI because it clearly shows where the business performs strongly and where it is weaker. This type of segmentation helps identify high-performing areas and underperforming ones that may need attention. I used a **heatmap** because it allows multiple dimensions to be compared at once, making patterns across cities and product categories easy to identify in a single view.
 
-My partner, **alaafalugi88-arch**, selected **orders by city** as their KPI and visualized it with a **horizontal bar chart**. Their choice focused more on operational insight than overall performance. While my chart answers whether the market is growing over time, their chart helps identify where demand is concentrated geographically. The bar chart was effective for their purpose because it makes comparison across categories easier and more precise.
+---
 
-We agreed that both visualizations point to a healthy and expanding Amman Digital Market. My chart suggests that business performance improved consistently across the year, while my partner’s chart shows that the gains are not evenly distributed across locations. Together, the two charts create a fuller picture: one explains the overall trend, and the other adds segmentation that helps explain where growth may be coming from. We also agreed that both charts work best when the title communicates a finding, the axes are clearly labeled, and the design avoids unnecessary visual clutter.
+## My Partner’s KPI and Chart
 
-Where we disagreed was mainly in what we considered the most important KPI. I prioritized a broad executive-level metric because I think it gives decision-makers the fastest understanding of overall performance. My partner prioritized a more tactical metric because they felt it leads more directly to specific actions such as targeted marketing or operational support in higher-demand cities. We also approached chart selection differently. I emphasized trend visibility and story flow, while my partner emphasized category comparison and actionability. After discussing their chart during our review, I still believe revenue is the strongest headline KPI, but I also see that it can hide important variation that becomes visible only when the data is segmented.
+My partner, **alaafalugi88-arch**, focused on **monthly revenue trends**. They used a **line chart** to show how revenue changes over time and to identify growth patterns across the year. Their goal was to understand whether the business is improving consistently or experiencing fluctuations over time.
 
-The main thing I learned from this comparison is that my original integration analysis would have been stronger if I had paired a trend-based KPI with a segmentation-based KPI. If I revise my work, I would add a second chart breaking down performance by city or category. That change would make the analysis more actionable and prevent the revenue chart from feeling too high-level on its own.
+---
+
+## Where We Agreed
+
+We both agreed that the business performance is not consistent across all areas. Some cities and time periods perform better than others. My partner’s chart showed that revenue is generally increasing over time, while my chart revealed that this growth is not evenly distributed across all cities and categories. Together, both analyses suggest that the business is growing, but the growth is concentrated in specific segments. We also agreed that clear chart design and choosing the right visualization type are essential for communicating insights effectively.
+
+---
+
+## Where We Disagreed
+
+We had different perspectives on what KPI is more important. I focused on location and category performance because I believe it provides more actionable insights for targeting specific markets and improving weaker segments. On the other hand, my partner focused on time-based trends, arguing that understanding growth patterns is more important for long-term strategy and forecasting. We also chose different chart types based on our goals — I used a heatmap for multi-dimensional comparison, while my partner used a line chart to highlight trends over time.
+
+---
+
+## What I Learned
+
+From this comparison, I learned that combining both approaches gives a more complete understanding of the business. While my analysis highlights where performance differs across locations and categories, my partner’s analysis explains how the business evolves over time. If I improve my analysis, I would include both time-based and segmentation-based insights to make it more comprehensive and actionable.
